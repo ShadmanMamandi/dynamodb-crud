@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dynamodbclient:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dynamodb-client-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dynamodbclient:war exploded" />
+    </root>
+  </artifact>
+</component>
